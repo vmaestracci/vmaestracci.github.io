@@ -1,7 +1,7 @@
 ---
 page_id: about
 layout: about
-title: sobre
+title: Moi
 permalink: /
 subtitle: <a href='#'>Bienvenue !</a>
 

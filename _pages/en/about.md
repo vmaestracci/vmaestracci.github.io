@@ -1,6 +1,7 @@
 ---
+page_id: about
 layout: about
-title: about
+title: Me
 permalink: /
 subtitle: <a href='#'>Welcome!</a>
 
