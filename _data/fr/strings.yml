@@ -9,7 +9,7 @@ categories:
 citation:
   bibtex: "ou como uma citação em BibTeX:"
   introduction: "Se você achou isso útil, por favor cite como:"
-contact_note: Você pode até adicionar uma pequena observação sobre qual dessas é a melhor maneira de entrar em contato com você.
+contact_note: Pour les messages rapides, passez par mastodon, pour les plus long par mail! :)
 cv:
   address: Endereço
   area: Área
@@ -84,16 +84,16 @@ months:
     january: Jan
     february: Fev
     march: Mar
-    april: Abr
+    april: Avr
     may: Mai
-    june: Jun
+    june: Juin
     july: Jul
-    august: Ago
-    september: Set
-    october: Out
+    august: Aout
+    september: Sept
+    october: Oct
     november: Nov
-    december: Dez
-news: novidades
+    december: Dec
+news: Quoi de neuf ?
 newsletter:
   back: Voltar
   error: "Oops! Algo deu errado, por favor tente novamente."
@@ -102,7 +102,7 @@ newsletter:
   subscribe_to_receive: "Inscreva-se para ser notificado de futuros artigos:"
   too_many_signups: "Muitas inscrições, por favor tente novamente em breve"
   wait: "Por favor, aguarde..."
-no_news: Nenhuma novidade no momento...
+no_news: Rien de nouveau pour le moment !
 pagination:
   newer: Recentes
   older: Antigas

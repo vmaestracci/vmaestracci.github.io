@@ -9,7 +9,7 @@ categories:
 citation:
   bibtex: "or as a BibTeX entry:"
   introduction: "If you found this useful, please cite this as:"
-contact_note: You can even add a little note about which of these is the best way to reach you.
+contact_note: For short messages, ask on mastodon, for longer messages, ask by mail! :)
 cv:
   address: Address
   area: Area
@@ -93,7 +93,7 @@ months:
     october: Oct
     november: Nov
     december: Dec
-news: news
+news: News
 newsletter:
   back: Back
   error: "Oops! Something went wrong, please try again."

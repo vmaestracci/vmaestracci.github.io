@@ -2,9 +2,9 @@
 page_id: profiles
 layout: profiles
 permalink: /people/
-title: people
-description: members of the lab or group
-nav: true
+title: Friends
+description: Here is a list of my research friends
+nav: false
 nav_order: 7
 
 profiles:

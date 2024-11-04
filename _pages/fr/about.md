@@ -10,14 +10,14 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Bureau 220</p>
+    <p>Bureau 220,</p>
     <p>163 Av. de Luminy</p>
     <p>13009, Marseille</p>
 
 news: true # includes a list of news items
-latest_posts: true # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
+latest_posts: false # includes a list of the newest posts
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Blabla bla en français cette fois ci
+Salut! La page FR est en construction! :)
