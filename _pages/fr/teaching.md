@@ -8,15 +8,18 @@ nav: true
 nav_order: 6
 ---
 
-*Mes chers élèves*, pour me contacter: n'oubliez pas, utilisez le mail en @univ-amu.fr, pas le mail étudiant !
-
 J'étais dans un département de mathématique (je suis un informaticien théoricien), je peut enseigner et les maths et l'informatique.
 J'ai aussi très a coeur la pédagogie, parce que j'ai compris beaucoup de choses "sur le tard" dans mes études et je me suis souvent demandé pourquoi on ne me les avais pas expliquées comme ça dès le début. (Les maths, ce n'est pas du par coeur !)
 
-# Année de thèse (64h / an)
+# Post-Doc (enseignements en options)
+
+## 2025-2026:
+ * TD de Logique, L3 ENS Rennes
+
+# Années de thèse (64h / an)
 
 ## 2024-2025:
-(Cette année la, je suis passé au département d'Informatique pour les enseignements pour pouvoir candidater a l'avenir en maitre de conf en Info)
+(Cette année la, je suis passé au département d'Informatique pour les enseignements pour pouvoir candidater à l'avenir en maitre de conf en Info)
  * Programmation Java avancée (L2) (44h of PS)
  * Architecture des Systèmes (L2) (9h ES, 12h PS)
 

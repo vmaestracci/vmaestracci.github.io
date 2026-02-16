@@ -20,6 +20,10 @@ I will use PS for a practical session (usually TP), on a computer for example, w
 I will use ES for an exercice session (usually TD), with a sheet of exercises and we try to do as much as we can.
 I will use C for class, where I was a full teacher (doing lessons and exercises session myself)
 
+# Post-Doc (no teaching required, still did some because I like teaching)
+
+## 2025-2026:
+ * ES Logic, L3 ENS Rennes
 
 # PhD Years (64h / year)
 
